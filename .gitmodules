@@ -1,0 +1,3 @@
+[ submodule "home/base/core/editors/nvim" ]
+  path = home/base/core/editors/nvim
+url = git@github.com:fnxln/nvim.git
