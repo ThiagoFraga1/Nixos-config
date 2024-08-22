@@ -21,7 +21,7 @@ let
       "modules/core"
       "modules/hyprland"
       "modules/desktop"
-
+      "server/nextcloud"
       # host specific
       "hosts/th"
 
